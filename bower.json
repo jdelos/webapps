@@ -1,0 +1,17 @@
+{
+  "name": "calcotada_web",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Julià Delos <julia.delos@ict.nl>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
